@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React gök
+          Learn React gökçe
         </a>
       </header>
     </div>
